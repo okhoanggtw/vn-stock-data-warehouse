@@ -1,0 +1,5 @@
+kmeans,so_ma,ann_return,ann_vol,beta,max_drawdown,log_liquidity,pe,pb,roe,mo_ta,cac_ma
+1,28,0.2473,0.4554,1.4273,-0.7219,11.0244,18.4988,1.6895,0.1041,"Cụm 1 – biến động cao nhất, lợi nhuận cao nhất (β≈1.43)","ANV, BSI, CTD, CTS, DBC, DGW, FTS, GEX, GVR, HAG, HCM, HDG, HHV, HPG, HSG, KBC, NKG, NLG, PC1, PVD, SSI, STB, TCH, VCG, VCI, VGC, VIX, VND"
+2,8,0.113,0.4423,1.2793,-0.7563,11.1709,57.6464,1.4865,0.0315,"Cụm 2 – lợi nhuận thấp nhất, định giá cao (β≈1.28)","BSR, CII, DIG, DXG, HT1, MSN, NVL, PDR"
+3,19,0.1986,0.3068,0.7033,-0.4522,10.5738,27.8043,3.6261,0.1863,Cụm 3 – phòng thủ (β≈0.70),"BCM, BMP, BWE, CTR, FPT, FRT, GAS, KDC, MCH, PNJ, SAB, SIP, SJS, VCB, VIC, VJC, VNM, VPI, VTP"
+4,37,0.2012,0.3524,1.0616,-0.5356,10.8524,13.6725,1.6028,0.1382,Cụm 4 – trung tính (β≈1.06),"ACB, BAF, BID, BVH, CMG, CTG, DCM, DPM, EIB, EVF, GMD, HDB, KDH, LPB, MBB, MSB, MWG, NAB, NT2, OCB, PAN, PHR, PLX, POW, PVT, REE, SBT, SHB, SSB, TCB, TPB, VHC, VHM, VIB, VPB, VRE, VSC"

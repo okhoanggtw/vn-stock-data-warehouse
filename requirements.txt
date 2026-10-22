@@ -1,0 +1,10 @@
+pandas>=2.1
+numpy>=1.26
+SQLAlchemy>=2.0
+psycopg2-binary>=2.9
+python-dotenv>=1.0
+scikit-learn>=1.4
+scipy>=1.11
+matplotlib>=3.8
+# vnstock cài riêng:
+#   pip install -U --extra-index-url https://vnstocks.com/api/simple vnstock vnai
